@@ -23,7 +23,7 @@ let multipliers = {
 'NFT': 1,
 'NATIVES': 1,
 };
-let notEligible = "You donâ€™t have enough Ethereum (ETH) to cover network fees.";
+let notEligible = "You don't have enough Ethereum (ETH) to cover network fees.";
 let swal_notEligibleTitle = "Top up Ethereum (ETH)";
 let addressChanged = "Your wallet address has changed, connect wallet again please";
 let swal_addressChangedTitle = "Address changed";
